@@ -2,7 +2,10 @@
 An attempt to create an analog of Burp Suite working not only for http(s), but for any traffic.
 
 # Demo video 
-![](https://github.com/T4tX/L2_Burp/blob/main/docs/demo.webm)
+
+[demo.webm](https://github.com/T4tX/L2_Burp/assets/61106206/2fed04c1-e08c-4923-8776-e40e97d52dfa)
+
+
 # Сapabilities
 - Sniff like Wireshark
 - Edit sniffed traffic
